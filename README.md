@@ -11,7 +11,7 @@ Steps:
 
 Getting Started:
 - Download Tableau Desktop from Tableau's website.
-- Open the "Tableau_Sales_Analysis.twbx" file in Tableau to explore the project.
+- Open the "TableauSales.twbx" file in Tableau to explore the project.
 - Use the provided dataset for your analysis.
 
 Contributing:
